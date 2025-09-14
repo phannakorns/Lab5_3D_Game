@@ -1,0 +1,25 @@
+(Draft) SIPA Open Source Platform Font License
+Version 1, December 2005
+1. The following definitions apply:
+a) “Font” means a font that contains a notice placed by the copyright holder saying that it may be distributed under the terms of this License.
+b) A file is “open source” if it is distributed under a license approved by the Open Source Initiative.
+c) The “system graphical user interface” means the files on the computer system that
+i) were distributed with the operating system kernel and
+ii) are designed to be used by programs to provide a graphical user interface.
+d) A program is “running on an open source operating system” if
+i) the files comprising the operating system kernel under which the program is running are open source, and
+ii) the system graphical interface, if any, is open source.
+Use of non-open source hardware drivers by either the operating system kernel and/or the system graphical interface does not by itself prevent a program from being considered as running on an open source operating system.
+If a program is running under an operating system kernel that is running under virtualized hardware, then the license of software components implementing the virtualized hardware does not affect whether the program is considered as running on an open source operating system.
+e) To “rasterize” a font means to use the outline data and/or instructions in a font to generate a bitmap image of one or more glyphs.
+f) “You” means an individual or legal entity seeking to exercise rights under this license.
+2. You may only rasterize the font as follows:
+a) you may rasterize the font by running a program on an open source operating system;
+b) if you create a document that uses the font and, by running a program on an open source operating system, you embed the font or unmodified portions of the font in the document, you may rasterize the embedded font for the purposes of displaying or printing the document.
+3. You may freely copy the unmodified font, provided you accompany the font with a copy of this license.
+4. You may embed unmodified portions of the font in a document and copy the embedded font as part of the document.  However, you may only rasterize the embedded font as provided in clause 2.
+5. You may create a modified version of the font provided
+a) you preserve any copyright notices in the font, and 
+b) you change the name of the font. 
+You must not use a name that might cause the modified font to be confused with the original font.
+The modified font will still be subject to all the restrictions in this license.
